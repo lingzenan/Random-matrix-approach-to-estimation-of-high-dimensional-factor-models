@@ -32,5 +32,4 @@ u = ((b-t).*(t- a)).^(1/2)./(2*pi*c1.*t);
 plot(t,u,'r','LineWidth',1);
 pic_title = strcat('numbers of removed factors = ',num2str(p_real));
 title(pic_title)
-
 % save 
