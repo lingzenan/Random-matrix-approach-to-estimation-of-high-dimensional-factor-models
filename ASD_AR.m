@@ -1,4 +1,4 @@
-%%  ASD
+% ASD
 % arg: c = N/T
 %        b: the global mean-reversion
 %rtn: pr: asymptotic spectral distribiton 
