@@ -1,2 +1,2 @@
 # Random-matrix-approach-to-estimation-of-high-dimensional-factor-models
-spectral estimation from samples
+Simple simulations for Random matrix approach to estimation of high-dimensional factor models.pdf
